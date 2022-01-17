@@ -1,0 +1,41 @@
+body{
+	background-color: lightblue;
+	text-align: center;
+}	
+
+h1{
+	color: black;
+	text-align: center;
+}
+
+p.one{
+	color: darkblue;
+	font-size: 15px;
+
+}
+p.two{
+	color: lightcoral;
+	font-size: 25px;
+	text-align: center;
+	border-style: double;
+	border-color: white;
+	border-width: medium;
+	border-spacing:10px;
+
+}
+p.three{
+	color: red;
+	font-size: 20px;
+	background-color: lightpink;
+	border-top-style: solid;
+	border-bottom-style: dashed;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-color: deeppink;
+}
+.end{ 
+	align-content: center;
+	width: 700px;
+	height:240px;
+
+}
